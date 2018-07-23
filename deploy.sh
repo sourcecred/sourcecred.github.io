@@ -91,7 +91,7 @@ build_and_deploy() {
     fi
     git checkout --detach "${base_commit}"
     rm ./.git/index
-    git reset --hard
+    git clean -fdx
     # Explode the `build/` directory into the current directory.
     find "${sourcecred_repo}/build/" -mindepth 1 -maxdepth 1 \
         \( -name .git -prune \) -o \
