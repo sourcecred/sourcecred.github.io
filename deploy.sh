@@ -79,6 +79,7 @@ build_and_deploy() {
         yarn build
         node ./bin/sourcecred.js load sourcecred example-github
         node ./bin/sourcecred.js load sourcecred example-git
+        node ./bin/sourcecred.js load sourcecred sourcecred
     )
 
     git fetch -q "${REMOTE}"
