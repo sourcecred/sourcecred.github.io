@@ -1,6 +1,20 @@
 {
-  "main.js": "static/js/main.6186ec8f.js",
-  "main.js.map": "static/js/main.6186ec8f.js.map",
-  "ssr.js": "static/js/ssr.6b7b9a95.js",
-  "ssr.js.map": "static/js/ssr.6b7b9a95.js.map"
+  "main.js": "static/js/main.5809f29a.js",
+  "main.js.map": "static/js/main.5809f29a.js.map",
+  "ssr.js": "static/js/ssr.06cf5e3b.js",
+  "ssr.js.map": "static/js/ssr.06cf5e3b.js.map",
+  "discord-invite/index.html": "discord-invite/index.html",
+  "favicon.png": "favicon.png",
+  "index.html": "index.html",
+  "prototype/index.html": "prototype/index.html",
+  "prototype/ipfs/go-ipfs/index.html": "prototype/ipfs/go-ipfs/index.html",
+  "prototype/ipfs/js-ipfs/index.html": "prototype/ipfs/js-ipfs/index.html",
+  "prototype/sourcecred/research/index.html": "prototype/sourcecred/research/index.html",
+  "prototype/sourcecred/sourcecred/index.html": "prototype/sourcecred/sourcecred/index.html",
+  "test/FileUploader/index.html": "test/FileUploader/index.html",
+  "test/TimelineCredView/index.html": "test/TimelineCredView/index.html",
+  "timeline/ipfs/go-ipfs/index.html": "timeline/ipfs/go-ipfs/index.html",
+  "timeline/ipfs/js-ipfs/index.html": "timeline/ipfs/js-ipfs/index.html",
+  "timeline/sourcecred/research/index.html": "timeline/sourcecred/research/index.html",
+  "timeline/sourcecred/sourcecred/index.html": "timeline/sourcecred/sourcecred/index.html"
 }
